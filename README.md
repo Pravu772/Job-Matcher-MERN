@@ -48,7 +48,7 @@ For server:
 cd server && npm install
 
 Start backend
-cd server && npm start
+cd server && node index.js
 
 Start frontend
 cd client && npm start
