@@ -36,9 +36,9 @@ A MERN Stack web application that intelligently analyzes uploaded resumes and re
 ##  How to Run Locally
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/job-matcher.git
+git clone https://github.com/Pravu772/Job-Matcher-MERN.git
 
-cd job-matcher
+cd Job-Matcher-MERN
 
 
 For client:
@@ -80,7 +80,7 @@ Job recommendation via real-time job APIs
 
 ## 👤 Contributor
 
-**Pravin M** – MERN Stack Developer  
+**Pravin M** – MERN Stack 
 _Designed and developed the full application using React, Node.js, Express, and MongoDB._
 
 If you found this project useful, feel free to ⭐ the repo!
