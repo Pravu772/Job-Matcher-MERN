@@ -48,9 +48,11 @@ For server:
 cd server && npm install
 
 Start backend
+
 cd server && check .env file then run node index.js
 
 Start frontend
+
 cd client && npm start
 
 Go to http://localhost:3000
