@@ -48,7 +48,7 @@ For server:
 cd server && npm install
 
 Start backend
-cd server && node index.js
+cd server && check .env file then run node index.js
 
 Start frontend
 cd client && npm start
